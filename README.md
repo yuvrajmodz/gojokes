@@ -19,7 +19,7 @@ go install github.com/yuvrajmodz/gojokes/cmd/gojokes@latest
 ## Library Usage
 
 ```go
-import "github.com/USERNAME/gojokes"
+import "github.com/yuvrajmodz/gojokes"
 
 // Random joke from any category
 joke, err := gojokes.Random()
